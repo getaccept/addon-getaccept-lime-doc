@@ -31,8 +31,14 @@ Any future GetAccept updates will be included with the release of a new Lime CRM
 ## Technical
 There are no technical requirements for this version of GetAccept.
 ## Components
-The GetAccept extension consists of the following components:
-See template here: https://lime-add-on-erp-connector.readthedocs-hosted.com/en/latest/technical/
+The GetAccept extension consists of components:
+* Chip set
+* Date picker
+* Grid
+* Linear progress
+* Menu
+* Switch
+
 ## Troubleshooting
 #### DESCRIPTION
 I can't send to a recipient.
