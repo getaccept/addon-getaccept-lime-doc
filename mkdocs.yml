@@ -1,0 +1,4 @@
+site_name: GetAccept
+nav:
+  - Documentation: documentation.md
+  - Changelog: changelog.md
