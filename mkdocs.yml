@@ -1,4 +1,35 @@
 site_name: GetAccept
 nav:
-  - Documentation: documentation.md
-  - Changelog: changelog.md
+  - "Documentation":
+      - "Overview": "index.md"
+      - "Requirements": "requirements.md"
+      - "How it Works": "howitworks.md"
+      - "Installation": "installation.md"
+      - "Configuration": "configuration.md"
+      - "Upgrading": "upgrading.md"
+      - "Technical": "technical.md"
+      - "Troubleshooting": "troubleshooting.md"
+  - "Changelog":
+      - "Lime CRM add-on": "CHANGELOG.md"
+repo_url: https://github.com/Lundalogik/addon-erpconnector
+repo_name: "Lundalogik/addon-erpconnector"
+site_description: ERP Connector Documentation
+site_author: Lime Technologies AB
+docs_dir: docs
+dev_addr: localhost:3002
+theme:
+  name: "material"
+  logo:
+    icon: "home"
+  feature:
+    tabs: true
+  palette:
+    primary: "teal"
+    accent: "teal"
+  favicon: "images/favicon.ico"
+site_url: ""
+markdown_extensions:
+  - codehilite
+  - admonition
+  - meta
+  - footnotes
