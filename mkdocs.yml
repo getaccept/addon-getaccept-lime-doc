@@ -14,7 +14,7 @@ nav:
 repo_url: https://github.com/getaccept/addon-getaccept-lime
 repo_name: "getaccept/addon-getaccept-lime"
 site_description: GetAccept
-site_author: Lime Technologies AB
+site_author: GetAccept AB
 docs_dir: docs
 dev_addr: localhost:3002
 theme:
