@@ -10,10 +10,10 @@ nav:
       - "Technical": "technical.md"
       - "Troubleshooting": "troubleshooting.md"
   - "Changelog":
-      - "Lime CRM add-on": "CHANGELOG.md"
-repo_url: https://github.com/Lundalogik/addon-erpconnector
-repo_name: "Lundalogik/addon-erpconnector"
-site_description: ERP Connector Documentation
+      - "GetAccept add-on": "CHANGELOG.md"
+repo_url: https://github.com/getaccept/addon-getaccept-lime
+repo_name: "getaccept/addon-getaccept-lime"
+site_description: GetAccept
 site_author: Lime Technologies AB
 docs_dir: docs
 dev_addr: localhost:3002
