@@ -10,7 +10,7 @@ nav:
       - "Technical": "technical.md"
       - "Troubleshooting": "troubleshooting.md"
   - "Changelog":
-      - "GetAccept add-on": "CHANGELOG.md"
+      - "GetAccept add-on": "changelog.md"
 repo_url: https://github.com/getaccept/addon-getaccept-lime
 repo_name: "getaccept/addon-getaccept-lime"
 site_description: GetAccept
