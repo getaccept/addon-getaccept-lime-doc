@@ -1,3 +1,5 @@
+hero: Close your Lime CRM deals faster with GetAccept
+
 There are no extra technical requirements for this version of GetAccept.
 
 ## Components

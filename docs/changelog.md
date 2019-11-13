@@ -1,3 +1,5 @@
+hero: Close your Lime CRM deals faster with GetAccept
+
 # Changelog for GetAccept
 
 ## v1.0.0

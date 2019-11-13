@@ -1,3 +1,5 @@
+hero: Close your Lime CRM deals faster with GetAccept
+
 #### Description
 
 I can't send to a recipient.

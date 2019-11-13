@@ -1,3 +1,5 @@
+hero: Close your Lime CRM deals faster with GetAccept
+
 ### Preparations
 
 Check that the requirements are met.
