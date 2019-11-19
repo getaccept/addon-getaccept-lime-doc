@@ -1,6 +1,11 @@
-There are no extra technical requirements for this version of GetAccept.
+hero: Close your Lime CRM deals faster with GetAccept
+
+# Technical
+
+All the code in this add-on is owned and maintained by GetAccept.
 
 ## Components
 
-The GetAccept extension consists of the following components:
-See template here: https://lime-add-on-erp-connector.readthedocs-hosted.com/en/latest/technical/
+The GetAccept add-on is built with:
+
+* Web components for Lime CRM Web Client.
