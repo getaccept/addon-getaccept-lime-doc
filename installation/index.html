@@ -89,7 +89,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#preparations" tabindex="1" class="md-skip">
+      <a href="#installation-instructions" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -178,6 +178,15 @@
     
     <div class="md-container">
       
+        
+          
+
+
+<div class="md-hero" data-md-component="hero">
+  <div class="md-hero__inner md-grid">
+    Close your Lime CRM deals faster with GetAccept
+  </div>
+</div>
         
       
       
@@ -326,6 +335,8 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
+    
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
         Installation
@@ -339,6 +350,8 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
@@ -346,6 +359,13 @@
         <li class="md-nav__item">
   <a href="#preparations" class="md-nav__link">
     Preparations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    Installation
   </a>
   
 </li>
@@ -464,6 +484,8 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
@@ -471,6 +493,13 @@
         <li class="md-nav__item">
   <a href="#preparations" class="md-nav__link">
     Preparations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    Installation
   </a>
   
 </li>
@@ -494,15 +523,16 @@
                   <a href="https://github.com/getaccept/addon-getaccept-lime/edit/master/docs/installation.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                  <h1>Installation</h1>
-                
-                <h3 id="preparations">Preparations</h3>
-<p>Check that the requirements are met.
-Make sure that you have a valid GetAccept account
-See configuration for how to configure GetAccept.</p>
-<ul>
-<li>Add the GetAccept web app in Lime store.</li>
-</ul>
+                <h1 id="installation-instructions">Installation Instructions</h1>
+<h2 id="preparations">Preparations</h2>
+<ol>
+<li>Check that the requirements are met.</li>
+</ol>
+<h2 id="installation">Installation</h2>
+<ol>
+<li>In the file <code>projectpy.toml</code> in the code repository of the Lime CRM solution, under the section <code>[tool.lime.dependencies]</code>, add the following text on a separate line: <code>getaccept = '==&lt;version&gt;'</code>, where <code>&lt;version&gt;</code> is replaced with the actual version of this add-on that you are installing. Use the latest one described in the <a href="../changelog/">Changelog</a>. For example: <code>getaccept = '==1.0.3'</code>.</li>
+<li>Build the Lime CRM solution as normally done, and install it as normally done.</li>
+</ol>
                 
                   
                 

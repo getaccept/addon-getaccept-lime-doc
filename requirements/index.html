@@ -89,6 +89,10 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
+      <a href="#requirements" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
@@ -174,6 +178,15 @@
     
     <div class="md-container">
       
+        
+          
+
+
+<div class="md-hero" data-md-component="hero">
+  <div class="md-hero__inner md-grid">
+    Close your Lime CRM deals faster with GetAccept
+  </div>
+</div>
         
       
       
@@ -297,6 +310,8 @@
   <li class="md-nav__item md-nav__item--active">
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
     
     
     <a href="./" title="Requirements" class="md-nav__link md-nav__link--active">
@@ -426,6 +441,21 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -434,9 +464,16 @@
                   <a href="https://github.com/getaccept/addon-getaccept-lime/edit/master/docs/requirements.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                  <h1>Requirements</h1>
-                
-                <p>The only thing you need to be able to run this integration is a valid GetAccept acount.</p>
+                <h1 id="requirements">Requirements</h1>
+<p>All the following requirements needs to be met to be able to use the integration:</p>
+<ul>
+<li>Lime CRM Server v12.22 or higher (in order to use the REST API).</li>
+<li>Lime CRM REST API.</li>
+<li>The REST API must be accessible from outside from the server, GetAccept is a cloud platform and therefore the REST API must be accesible from the internet.</li>
+<li>Database names on fields on the company card follows the list on Technical. If not, then the javascript code in the LBS app must be changed and Syncify must change the migration scripts.</li>
+</ul>
+<h1 id="getaccept-requirement">GetAccept Requirement</h1>
+<p>You need to run at least GetAccept Business or higher. </p>
                 
                   
                 
