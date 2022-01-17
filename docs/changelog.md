@@ -2,6 +2,13 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.0.15
+**Released:** 2021-03-05
+**Authors:** Valentyn Maystrenko
+### Bug Fixes
+*  fixed bug when unable to close the integration in preview view and on login view 
+
+
 ## 1.0.14
 **Released:** 2021-03-05
 **Authors:** Andreas Åström & Jonatan Tegen
