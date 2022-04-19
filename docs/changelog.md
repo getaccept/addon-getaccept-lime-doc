@@ -2,6 +2,22 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.0.20
+**Released:** 2022-03-14
+**Authors:** Valentyn Maystrenko
+### Bug Fixes
+*  Change logo url 
+*  Feature: Add recipients from related company
+*  Updated all dependencies 
+
+## 1.0.18
+**Released:** 2022-03-14
+**Authors:** Valentyn Maystrenko
+### Bug Fixes
+*  Fix incorrect error message on deleting document
+*  Fix not updating status in documents list
+*  Feature: Auto add recipients from Persons tab
+
 ## 1.0.15
 **Released:** 2021-03-05
 **Authors:** Valentyn Maystrenko
