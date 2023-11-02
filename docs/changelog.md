@@ -2,6 +2,26 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.2.3
+**Released:** 2023-10-12
+**Authors:** Valentyn Maystrenko
+### Bug Fixes
+* Implement template role logic
+* Updated lime dependencies
+* Fixed full name issue
+* Update python support to 3.11
+* Add custom object config
+* Fixed issue when unable to search recipient and coworker
+
+
+## 1.1.0
+**Released:** 2023-07-10
+**Authors:** Valentyn Maystrenko
+### Bug Fixes
+* Fixes issue 2-way integration
+* Add merge fields support
+
+
 ## 1.0.23
 **Released:** 2022-09-14
 **Authors:** Valentyn Maystrenko
