@@ -2,11 +2,11 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
-## 1.2.6
+## 1.2.8
 **Released:** 2023-11-3
 **Authors:** Valentyn Maystrenko
 ### Bug Fixes
-* Removed all dates merge fields
+* Change date fields to one format 2023-10-03 for merge fields
 
 
 ## 1.2.5
