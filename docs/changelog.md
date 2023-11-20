@@ -2,6 +2,12 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.0
+**Released:** 2023-11-20
+**Authors:** Valentyn Maystrenko
+### Feature
+* Added new configuration with multiple lime objects for deals and contacts
+
 ## 1.2.11
 **Released:** 2023-11-8
 **Authors:** Valentyn Maystrenko
