@@ -2,6 +2,14 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.2
+**Released:** 2023-12-08
+**Authors:** Valentyn Maystrenko
+### Bugfix
+* Fix unable to send document if deal value property not set in admin page
+### Feature
+* Added bugsnag for hadnling errors 
+
 ## 1.3.1
 **Released:** 2023-11-20
 **Authors:** Valentyn Maystrenko
