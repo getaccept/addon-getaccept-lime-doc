@@ -2,6 +2,15 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.4
+
+**Released:** 2024-01-25
+**Authors:** Valentyn Maystrenko
+
+### Bugfix
+
+- Fix issue when unable to get contacts on company page
+
 ## 1.3.3
 
 **Released:** 2023-12-08
