@@ -2,6 +2,15 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.5
+
+**Released:** 2024-03-08
+**Authors:** Valentyn Maystrenko
+
+### Bugfix
+
+- Log out if refresh token expired
+
 ## 1.3.4
 
 **Released:** 2024-01-25
