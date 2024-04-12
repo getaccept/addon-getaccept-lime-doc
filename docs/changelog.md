@@ -2,6 +2,15 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.7
+
+**Released:** 2024-04-12
+**Authors:** Valentyn Maystrenko
+
+### Bugfix
+
+- Fixed performance issue if the object has a lot of merge tags
+
 ## 1.3.5
 
 **Released:** 2024-03-08
