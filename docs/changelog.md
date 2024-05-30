@@ -2,6 +2,23 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.8
+
+**Released:** 2024-05-30
+**Authors:** Valentyn Maystrenko
+
+### Bugfix
+
+- Fixed issue with templates/documents list which not working correctly if you change selection
+
+### Feature
+
+- Added delay for 'Open in GA' to prevent blank document
+- Added support for dark mode
+
+> [WARNING]
+> In this version we're dropping support for python 3.7, minimal version is 3.9
+
 ## 1.3.7
 
 **Released:** 2024-04-12
