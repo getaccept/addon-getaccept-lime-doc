@@ -2,6 +2,15 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.15
+
+**Released:** 2025-09-26  
+**Authors:** Valik Maystrenko
+
+### Feature
+
+- Added current entity name to top right corner
+
 ## 1.3.14
 
 **Released:** 2025-09-26  
