@@ -2,6 +2,50 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.15
+
+**Released:** 2025-09-26  
+**Authors:** Valik Maystrenko
+
+### Feature
+
+- Added current entity name to top right corner
+
+## 1.3.14
+
+**Released:** 2025-09-26  
+**Authors:** Valik Maystrenko
+
+### Bugfix
+
+- Fixed page preview URL to use S3 link instead of direct API endpoint
+
+## 1.3.13
+
+**Released:** 2025-05-27  
+**Authors:** Valik Maystrenko
+
+### Chore
+
+- Updated cryptography dependencies to latest version
+
+**Released:** 2024-10-17  
+**Authors:** Valik Maystrenko
+
+### Bugfix
+
+- Fixed templates list to show all templates
+
+## 1.3.9
+
+**Released:** 2024-10-14  
+**Authors:** Valik Maystrenko
+
+### Bugfix
+
+- Fixed error when getting property value after component update
+- Updated dependencies and configuration imports
+
 ## 1.3.8
 
 **Released:** 2024-05-30
