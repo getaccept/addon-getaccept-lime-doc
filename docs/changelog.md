@@ -2,6 +2,15 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.20
+
+**Released:** 2026-10-23
+**Authors:** Valik Maystrenko
+
+### Feature
+
+- Added ability to use person mapping for company relations in custom deal config
+
 ## 1.3.15
 
 **Released:** 2025-09-26  
