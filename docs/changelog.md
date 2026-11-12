@@ -2,6 +2,15 @@ hero: Close your Lime CRM deals faster with GetAccept
 
 # Changelog for GetAccept
 
+## 1.3.21
+
+**Released:** 2026-11-12
+**Authors:** Bohuslav Semenov
+
+### Feature
+
+- Added document custom data support.
+
 ## 1.3.20
 
 **Released:** 2026-10-23
